@@ -1,0 +1,6 @@
+@StartupFilterExample_HostAddress = http://localhost:5090
+
+GET {{StartupFilterExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
